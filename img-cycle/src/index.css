@@ -1,0 +1,16 @@
+:root {
+  --first-color: rgba(0, 0, 10, 0.6);
+  --second-color: rgb(31, 30, 38);
+}
+
+body {
+  background: var(--second-color);
+}
+
+img {
+  max-width: 900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
